@@ -1,3 +1,6 @@
+-- Made By 090 https://discord.gg/s2mFECrAD2
+-- https://rscripts.net/@090
+
 getgenv().v1 = {
     Enabled = true,
     TargetPart = "Hitbox_Head",
