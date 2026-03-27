@@ -1,6 +1,7 @@
 -- Made By 090 https://discord.gg/s2mFECrAD2
+-- Thanks to 988 for the emotional support when i failed to make a ui 😭
+-- Used index hooks bc im a goofy goober 😊
 -- https://rscripts.net/@090
--- thanks 988 for the emotional support when i failed to make a ui 😭
 
 getgenv().v1 = {
     Enabled = true,
